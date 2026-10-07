@@ -1,0 +1,6 @@
+{
+  "name": "Oddbods Mini Games",
+  "description": "Fun-filled Oddbods arcade game featuring interactive mini-games, unique character abilities, bouncy physics, and character sprites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
